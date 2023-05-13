@@ -4,4 +4,4 @@ go build -o mind main.go
 sudo mv mind /usr/local/bin
 cd ./../
 rm -rf mind-pos
-mind --version
+mind version
