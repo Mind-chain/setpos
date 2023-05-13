@@ -6,8 +6,8 @@ Welcome to MIND Blockchain
 
 
 ```
-git clone https://github.com/nnlgsakib/setup-pos
-cd setup-pos
+git clone https://github.com/nnlgsakib/setpos
+cd setpos
 bash install.sh
 ```
 
