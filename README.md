@@ -26,6 +26,15 @@ bash install.sh
 bash start.sh 
 ```
 
+---
+## run for production(ubuntu)
+
+sudo apt-get install tmux
+tmux new-session -s mind
+cd setpos/
+bash start.sh
+
+```
 
 
 Copyright 2023 MIND chain 
