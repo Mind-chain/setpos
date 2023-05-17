@@ -91,7 +91,7 @@
                 "validator_type": "bls"
             }
         },
-        "blockGasTarget": 2,
+        "blockGasTarget": 0,
         "burnContract": null
     },
     "bootnodes": [
