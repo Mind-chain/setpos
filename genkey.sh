@@ -1,1 +1,1 @@
-mind secrets init --data-dir node --insecure
+mind secrets init --data-dir node 
