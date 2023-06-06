@@ -11,7 +11,7 @@ cd setpos
 bash install.sh
 ```
 
-# generate valodator addr 
+# generate validator addr 
 
 
 
