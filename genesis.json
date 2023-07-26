@@ -97,8 +97,6 @@
     },
     "bootnodes": [
         "/ip4/45.76.129.38/tcp/10001/p2p/16Uiu2HAm6bNdLSBcGUP2zw5gke9N5CnKMhHKdKzT6A7dwpbXENQw",
-        "/ip4/216.155.135.137/tcp/10001/p2p/16Uiu2HAmQ2uBSUw3cYiT3TUkiEpPJggvor1L5co6EqvW4LbXkMe7",
-        "/ip4/104.238.173.226/tcp/10001/p2p/16Uiu2HAmAemxW4KBANWTehCDMgkj8edGs9UfQX9rqLbiJSDRFhdr",
         "/ip4/66.135.24.113/tcp/10001/p2p/16Uiu2HAmMqSiDbxhyhYnRExg7E6zki4jMZypthjkZwSYtJZjvsmZ",
         "/ip4/107.191.42.220/tcp/10001/p2p/16Uiu2HAkxJLUa7XNDLcuGXLT188T3CQQCAWraQrmpfUbqVZXDqkn",
         "/ip4/144.202.13.7/tcp/10001/p2p/16Uiu2HAmPYAHZ3tbs7iBrBQpxVmvRwdxVFwg1dGuuNcBys5WqHHx"
