@@ -6,7 +6,7 @@ Welcome to MIND Blockchain
 
 
 ```
-https://github.com/Mind-chain/setpos
+git clone https://github.com/Mind-chain/setpos
 cd setpos
 bash install.sh
 ```
