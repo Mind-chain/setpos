@@ -67,6 +67,7 @@
         "chainID": 9996,
         "engine": {
             "ibft": {
+                "blockTime": 3,
                 "epochSize": 200,
                 "type": "PoS",
                 "validator_type": "ecdsa"
