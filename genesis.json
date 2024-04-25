@@ -64,6 +64,9 @@
             "EIP158": {
                 "block": 0
             },
+             "EIP2929": {
+                "block": 7000001
+            },
             "byzantium": {
                 "block": 0
             },
