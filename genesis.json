@@ -65,7 +65,7 @@
                 "block": 0
             },
              "EIP2929": {
-                "block": 7000001
+                "block": 6334150
             },
             "byzantium": {
                 "block": 0
@@ -89,7 +89,7 @@
                 "block": 0
             },
             "Londonv2":{
-                "block": 7000000
+                "block": 6334149
             }
         },
         "chainID": 9996,
