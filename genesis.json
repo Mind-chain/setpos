@@ -84,6 +84,9 @@
             },
             "txHashWithType": {
                 "block": 0
+            },
+            "Londonv2":{
+                "block": 7000000
             }
         },
         "chainID": 9996,
